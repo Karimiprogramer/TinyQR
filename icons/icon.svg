@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Background circle -->
+  <circle cx="64" cy="64" r="60" fill="#1c71d8" />
+  
+  <!-- Inner circle with gradient -->
+  <circle cx="64" cy="64" r="52" fill="#3584e4" />
+  
+  <!-- QR code shape (simplified) -->
+  <g fill="white">
+    <!-- Outer frame -->
+    <rect x="32" y="32" width="64" height="64" rx="4" fill="white" />
+    
+    <!-- QR code squares -->
+    <g>
+      <!-- Position detection pattern (top-left) -->
+      <rect x="38" y="38" width="16" height="16" fill="#1c71d8" />
+      <rect x="42" y="42" width="8" height="8" fill="white" />
+      
+      <!-- Position detection pattern (top-right) -->
+      <rect x="74" y="38" width="16" height="16" fill="#1c71d8" />
+      <rect x="78" y="42" width="8" height="8" fill="white" />
+      
+      <!-- Position detection pattern (bottom-left) -->
+      <rect x="38" y="74" width="16" height="16" fill="#1c71d8" />
+      <rect x="42" y="78" width="8" height="8" fill="white" />
+      
+      <!-- QR code modules (data bits) -->
+      <rect x="60" y="42" width="4" height="4" fill="#1c71d8" />
+      <rect x="68" y="42" width="4" height="4" fill="#1c71d8" />
+      <rect x="60" y="46" width="4" height="4" fill="#1c71d8" />
+      <rect x="42" y="54" width="4" height="4" fill="#1c71d8" />
+      <rect x="50" y="54" width="4" height="4" fill="#1c71d8" />
+      <rect x="58" y="54" width="4" height="4" fill="#1c71d8" />
+      <rect x="66" y="54" width="4" height="4" fill="#1c71d8" />
+      <rect x="74" y="54" width="4" height="4" fill="#1c71d8" />
+      <rect x="46" y="58" width="4" height="4" fill="#1c71d8" />
+      <rect x="54" y="58" width="4" height="4" fill="#1c71d8" />
+      <rect x="62" y="58" width="4" height="4" fill="#1c71d8" />
+      <rect x="70" y="58" width="4" height="4" fill="#1c71d8" />
+      <rect x="78" y="58" width="4" height="4" fill="#1c71d8" />
+      <rect x="42" y="62" width="4" height="4" fill="#1c71d8" />
+      <rect x="50" y="62" width="4" height="4" fill="#1c71d8" />
+      <rect x="58" y="62" width="4" height="4" fill="#1c71d8" />
+      <rect x="66" y="62" width="4" height="4" fill="#1c71d8" />
+      <rect x="74" y="62" width="4" height="4" fill="#1c71d8" />
+      <rect x="82" y="62" width="4" height="4" fill="#1c71d8" />
+      <rect x="62" y="66" width="4" height="4" fill="#1c71d8" />
+      <rect x="70" y="66" width="4" height="4" fill="#1c71d8" />
+      <rect x="78" y="66" width="4" height="4" fill="#1c71d8" />
+      <rect x="62" y="70" width="4" height="4" fill="#1c71d8" />
+      <rect x="70" y="70" width="4" height="4" fill="#1c71d8" />
+      <rect x="78" y="70" width="4" height="4" fill="#1c71d8" />
+      <rect x="62" y="78" width="4" height="4" fill="#1c71d8" />
+      <rect x="70" y="78" width="4" height="4" fill="#1c71d8" />
+      <rect x="78" y="78" width="4" height="4" fill="#1c71d8" />
+      <rect x="86" y="78" width="4" height="4" fill="#1c71d8" />
+      <rect x="58" y="82" width="4" height="4" fill="#1c71d8" />
+      <rect x="66" y="82" width="4" height="4" fill="#1c71d8" />
+      <rect x="74" y="82" width="4" height="4" fill="#1c71d8" />
+      <rect x="82" y="82" width="4" height="4" fill="#1c71d8" />
+    </g>
+  </g>
+</svg>
